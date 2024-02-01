@@ -1,4 +1,4 @@
 # Visit:
 https://jonathanpasqualotto.github.io/GameFala/
 
-use Crhome in moment
+use Chrome in moment
